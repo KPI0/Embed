@@ -1,0 +1,24 @@
+--cpu Cortex-M3
+"3key2led\startup_stm32f103x6.o"
+"3key2led\main.o"
+"3key2led\gpio.o"
+"3key2led\stm32f1xx_it.o"
+"3key2led\stm32f1xx_hal_msp.o"
+"3key2led\stm32f1xx_hal_gpio_ex.o"
+"3key2led\stm32f1xx_hal_tim.o"
+"3key2led\stm32f1xx_hal_tim_ex.o"
+"3key2led\stm32f1xx_hal.o"
+"3key2led\stm32f1xx_hal_rcc.o"
+"3key2led\stm32f1xx_hal_rcc_ex.o"
+"3key2led\stm32f1xx_hal_gpio.o"
+"3key2led\stm32f1xx_hal_dma.o"
+"3key2led\stm32f1xx_hal_cortex.o"
+"3key2led\stm32f1xx_hal_pwr.o"
+"3key2led\stm32f1xx_hal_flash.o"
+"3key2led\stm32f1xx_hal_flash_ex.o"
+"3key2led\stm32f1xx_hal_exti.o"
+"3key2led\system_stm32f1xx.o"
+--strict --scatter "3KEY2LED\3KEY2LED.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "3KEY2LED.map" -o 3KEY2LED\3KEY2LED.axf
