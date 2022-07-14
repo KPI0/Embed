@@ -194,10 +194,10 @@
       <FileType>1</FileType>
       <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>1</ColumnNumber>
+      <ColumnNumber>2</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>38</TopLine>
-      <CurrentLine>25</CurrentLine>
+      <TopLine>16</TopLine>
+      <CurrentLine>54</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\LEDshuiliudeng.c</PathWithFileName>
       <FilenameWithoutPath>LEDshuiliudeng.c</FilenameWithoutPath>
