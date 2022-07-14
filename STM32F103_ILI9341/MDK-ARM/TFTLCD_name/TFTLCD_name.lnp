@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"tftlcd_name\startup_stm32f103xb.o"
+"tftlcd_name\lcd.o"
+"tftlcd_name\lcd_init.o"
+"tftlcd_name\main.o"
+"tftlcd_name\gpio.o"
+"tftlcd_name\stm32f1xx_it.o"
+"tftlcd_name\stm32f1xx_hal_msp.o"
+"tftlcd_name\stm32f1xx_hal_gpio_ex.o"
+"tftlcd_name\stm32f1xx_hal_tim.o"
+"tftlcd_name\stm32f1xx_hal_tim_ex.o"
+"tftlcd_name\stm32f1xx_hal.o"
+"tftlcd_name\stm32f1xx_hal_rcc.o"
+"tftlcd_name\stm32f1xx_hal_rcc_ex.o"
+"tftlcd_name\stm32f1xx_hal_gpio.o"
+"tftlcd_name\stm32f1xx_hal_dma.o"
+"tftlcd_name\stm32f1xx_hal_cortex.o"
+"tftlcd_name\stm32f1xx_hal_pwr.o"
+"tftlcd_name\stm32f1xx_hal_flash.o"
+"tftlcd_name\stm32f1xx_hal_flash_ex.o"
+"tftlcd_name\stm32f1xx_hal_exti.o"
+"tftlcd_name\system_stm32f1xx.o"
+--strict --scatter "TFTLCD_name\TFTLCD_name.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "TFTLCD_name.map" -o TFTLCD_name\TFTLCD_name.axf
