@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"LEDshanshuo.obj" 
+TO "LEDshanshuo" 
+RAMSIZE(256) 
