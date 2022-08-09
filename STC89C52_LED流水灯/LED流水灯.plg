@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\GitHub\STM-STC\STC89C52_LED流水灯\LED流水灯.uvproj
+Project File Date:  08/09/2022
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling LEDshuiliudeng.c...
+linking...
+Program Size: data=9.0 xdata=0 code=212
+creating hex file from "LED流水灯"...
+"LED流水灯" - 0 Error(s), 0 Warning(s).
