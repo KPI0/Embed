@@ -5,3 +5,5 @@
 ### 串口调试
 #### [ATK-XCOM正点原子](http://www.openedv.com/docs/tool/ruanjian/ATK-XCOM.html)
 #### [SSCOM大虾](http://www.daxia.com/sscom/sscom5.13.1.rar)
+### 虚拟串口
+#### [MX虚拟串口](http://www.meixuannet.cn/h-col-104.html)
