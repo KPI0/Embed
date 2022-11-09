@@ -7,3 +7,8 @@ E:\GitHub\Embed\STC89C52_交通灯控制系统\交通灯控制系统.uvproj
 Project File Date:  11/02/2022
 
 <h2>Output:</h2>
+Build target 'Target 1'
+linking...
+Program Size: data=31.3 xdata=0 code=943
+creating hex file from "交通灯控制系统"...
+"交通灯控制系统" - 0 Error(s), 0 Warning(s).
